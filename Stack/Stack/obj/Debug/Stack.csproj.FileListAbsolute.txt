@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Stack\Stack\obj\Debug\Stack.pdb
