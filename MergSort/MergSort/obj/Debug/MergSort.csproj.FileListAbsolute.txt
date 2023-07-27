@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\MergSort\MergSort\bin\Debug\MergSort.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\MergSort\MergSort\bin\Debug\MergSort.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\MergSort\MergSort\bin\Debug\MergSort.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\MergSort\MergSort\obj\Debug\MergSort.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\MergSort\MergSort\obj\Debug\MergSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\MergSort\MergSort\obj\Debug\MergSort.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\MergSort\MergSort\obj\Debug\MergSort.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\MergSort\MergSort\obj\Debug\MergSort.pdb
