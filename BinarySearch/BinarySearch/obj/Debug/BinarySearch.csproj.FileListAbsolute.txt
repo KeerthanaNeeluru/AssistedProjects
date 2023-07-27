@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
