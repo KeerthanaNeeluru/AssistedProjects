@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\DoubleLinkedList\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\DoubleLinkedList\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb
