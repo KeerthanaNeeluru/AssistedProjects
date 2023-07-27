@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\HandlingDates\HandlingDates\bin\Debug\HandlingDates.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\HandlingDates\HandlingDates\bin\Debug\HandlingDates.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\HandlingDates\HandlingDates\bin\Debug\HandlingDates.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\HandlingDates\HandlingDates\obj\Debug\HandlingDates.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\HandlingDates\HandlingDates\obj\Debug\HandlingDates.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\HandlingDates\HandlingDates\obj\Debug\HandlingDates.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\HandlingDates\HandlingDates\obj\Debug\HandlingDates.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\HandlingDates\HandlingDates\obj\Debug\HandlingDates.pdb
