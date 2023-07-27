@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Recursion\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Recursion\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Recursion\Recursion\obj\Debug\Recursion.pdb
