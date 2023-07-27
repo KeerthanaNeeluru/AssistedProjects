@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\WorkingWithText\WorkingWithText\bin\Debug\WorkingWithText.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\WorkingWithText\WorkingWithText\obj\Debug\WorkingWithText.pdb
