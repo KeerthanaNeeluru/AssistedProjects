@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
