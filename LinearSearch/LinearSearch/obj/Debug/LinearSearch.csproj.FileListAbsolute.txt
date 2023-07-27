@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb
