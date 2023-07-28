@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Queues\Queues\bin\Debug\Queues.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Queues\Queues\bin\Debug\Queues.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Queues\Queues\bin\Debug\Queues.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Queues\Queues\obj\Debug\Queues.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Queues\Queues\obj\Debug\Queues.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Queues\Queues\obj\Debug\Queues.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assisted_Projects\Queues\Queues\obj\Debug\Queues.pdb
